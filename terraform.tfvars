@@ -1,4 +1,4 @@
-bucket_name = "tfstate-x-storage"
+bucket_name = "sr-storage"
 location = "US"
 max_age = "10"
 type =  "Delete"
